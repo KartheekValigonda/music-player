@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId">845829310752</string>
+    <string name="google_api_key">AIzaSyDLKmSBqf2mVeDcKeY8nO7PCIuZ305tc4Y</string>
+    <string name="google_app_id">1:845829310752:android:c1f06e9f936cc6a4b12f45</string>
+    <string name="project_id">music-player-e3134</string>
+</resources>

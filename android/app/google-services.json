@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845829310752",
+    "project_id": "music-player-e3134",
+    "storage_bucket": "music-player-e3134.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845829310752:android:c1f06e9f936cc6a4b12f45",
+        "android_client_info": {
+          "package_name": "com.example.kartheek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLKmSBqf2mVeDcKeY8nO7PCIuZ305tc4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
