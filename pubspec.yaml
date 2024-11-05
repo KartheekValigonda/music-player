@@ -40,6 +40,8 @@ dependencies:
   firebase_storage: ^12.3.3
   cloud_firestore: ^5.4.4
   get: ^4.6.6
+  permission_handler: ^11.3.1
+  on_audio_query: ^2.9.0
 
 dev_dependencies:
   flutter_test:
